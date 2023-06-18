@@ -2,11 +2,12 @@
 
 *Home*
 
-![image](https://user-images.githubusercontent.com/104618576/189426931-62a813f6-fcb5-4804-baba-cf9c8b516c5d.png)
+![image](https://github.com/nisha-laur/Gym-website/assets/104618576/3c573334-a8d1-48b5-a8cf-e3df4b2e2d55)
+
 
 *About Us*
+![image](https://github.com/nisha-laur/Gym-website/assets/104618576/d008518f-9dc2-4d0b-b086-7fd0deb18f0a)
 
-![image](https://user-images.githubusercontent.com/104618576/189426983-d09a1436-e965-4397-9973-b66c9b458373.png)
 
 *Services*
 
